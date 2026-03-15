@@ -4,6 +4,6 @@
 
 | Frontend & UI | DevOps & Tools |
 |---------------|----------------|
-| ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![Dear PyGui](https://img.shields.io/badge/-Dear%20PyGui-42A5F5?style=flat-square&logo=python&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nergan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
