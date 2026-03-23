@@ -9,14 +9,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nergan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=nergan&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy-tawny.vercel.app/?username=nergan&theme=radical&no-frame=true&no-bg=true&margin-w=4">
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Flowse/Flowseal/refs/heads/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg" />
