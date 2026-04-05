@@ -14,3 +14,7 @@ jobs:
           base: ""
           plugin_languages: yes
           plugin_languages_details: percentage
+          output_action: yes
+          commit: yes
+          filename: github-metrics.svg
+          commit_message: "chore: update language stats"
