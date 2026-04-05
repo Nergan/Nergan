@@ -14,7 +14,7 @@ jobs:
           base: ""
           plugin_languages: yes
           plugin_languages_details: percentage
+          # ↓ Эти строки заставляют action сохранять SVG в репозиторий
           output_action: yes
           commit: yes
           filename: github-metrics.svg
-          commit_message: "chore: update language stats"
