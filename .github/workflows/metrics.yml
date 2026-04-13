@@ -16,6 +16,8 @@ jobs:
           base: ""
           plugin_languages: yes
           plugin_languages_details: percentage
+          plugin_languages_ignored: private                # ← исключает приватные репозитории из языковой статистики
+          repositories_skipped: private                     # ← глобально исключает приватные репозитории (влияет и на другие плагины)
           output_action: commit
           commit: yes
           filename: github-metrics.svg
