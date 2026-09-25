@@ -16,7 +16,7 @@ jobs:
           template: classic
           base: ""
           plugin_languages_limit: 0
-          plugin_languages: yes
+          plugin_languages: no
           plugin_languages_details: percentage
           plugin_languages_skipped: other
           output_action: commit
