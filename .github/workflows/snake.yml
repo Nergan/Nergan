@@ -12,6 +12,7 @@ on:
 
 jobs:
   generate:
+    if: ${{ github.server_url == 'https://github.com' }}
     permissions:
       contents: write
     runs-on: ubuntu-latest
